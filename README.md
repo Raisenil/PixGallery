@@ -12,7 +12,7 @@ Table of Contents
 6.  Plugins
     -   Jetpack
     -   Ninja Forms
-
+7. Installation and Setup
 * * * * *
 
 1\. Introduction
