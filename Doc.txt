@@ -1,0 +1,10 @@
+for Icon
+	Iconfinder(https://www.iconfinder.com/)
+for Picture
+	pixels(https://www.pexels.com/)
+
+wordpress theme
+	Pixgraphy(https://wordpress.org/themes/pixgraphy/)
+Plugins
+	Jetpack(https://wordpress.org/plugins/jetpack/)
+	Ninja Forms(https://wordpress.org/plugins/ninja-forms/)
