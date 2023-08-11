@@ -106,6 +106,24 @@ Ninja Forms adds valuable form-building capabilities to PixGallery.it:
 -   Email Notifications: Sends email notifications upon form submissions, ensuring prompt responses to user interactions.
 -   Data Management: Allows for data collection and management directly within the WordPress dashboard.
 
+7\. Installation and Setup
+-----------
+
+To set up the PixGallery website on your local machine, follow these steps:
+
+1\. Clone the repository from GitHub: `git clone https://github.com/Raisenil/PixGallery.git`
+
+2\. Download and install XAMPP from the official website `(https://www.apachefriends.org/index.html)`. Follow the installation instructions for your operating system.
+
+3\. Make sure XAMPP is up and running. Start the Apache and MySQL modules from the XAMPP control panel.
+
+4\. Create a New Database by going On the `phpMyAdmin` interface, click on "New" in the left sidebar to create a new database.
+Enter name as `pixgallery` and choose the appropriate collation (usually utf8_general_ci).
+
+5\. Import the Backup by selecting it from the left sidebar. Click on the "Import" tab in the top menu. Click the "Choose File" button to select the .sql backup file from `Database\pixgallery.sql`.Choose the default settings or adjust them based on your needs.Click the "Go" button to start the import process.
+
+6\. Access the website in your browser at `http://localhost:3000`.
+
 * * * * *
 
 This concludes the technical documentation for PixGallery. By combining the Pixgraphy theme, Jetpack, Ninja Forms, Iconfinder, and Pexels,  a successfully visually appealing and functional photo gallery website was made. The chosen components work together to create an engaging user experience, while the theme and plugins offer customization and optimization options to ensure the website's success.
