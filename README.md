@@ -27,25 +27,25 @@ Welcome to the technical documentation for PixGallery, a photo gallery website b
 
 The `Home` page of the website functions as the principal interface for PixGallery, where visual content is emblematic of blog-style entries.
 
-<img src="Images/Home_PixGallery-–-A-way-to-store-Memory.png" alt="Home_page" width="500" height="600">
+<img src="Images/Home_PixGallery-–-A-way-to-store-Memory.png" alt="Home_page">
 
 #### PORTFOLIO
 
 The `PORTFOLIO` page of the website showcases an assorted compilation of photographs, presented in distinct thematic collections.
 
-<img src="Images/Portfolio-–-PixGallery.png" alt="Portfolio_page" width="500" height="600">
+<img src="Images/Portfolio-–-PixGallery.png" alt="Portfolio_page">
 
 #### ABOUT Page
 
 The `ABOUT` page on the website serves as a comprehensive platform, providing visitors with insight into the origins, mission, and artistic principles that underpin PixGallery.
 
-<img src="Images/About-–-PixGallery.png" alt="About_page" width="500" height="600">
+<img src="Images/About-–-PixGallery.png" alt="About_page">
 
 #### CONTACT Page
 
 The `CONTACT` page serves as a dedicated interface for users to initiate communication with PixGallery, facilitating seamless interaction and inquiries regarding the platform's content, services, and collaborations.
 
-<img src="Images/Contact-–-PixGallery.png" alt="Contact_page" width="500" height="600">
+<img src="Images/Contact-–-PixGallery.png" alt="Contact_page">
 
 3\. Theme and Plugins
 ---------------------
